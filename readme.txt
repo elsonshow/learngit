@@ -6,4 +6,4 @@ Git tracks changes of files.
 Do you know something.
 what r u doing now.
 yes,do for github.
-Creating  a new branch is quick.
+Creating  a new branch is quick and simple.
